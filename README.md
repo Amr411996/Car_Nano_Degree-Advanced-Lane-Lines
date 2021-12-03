@@ -29,4 +29,4 @@ The steps of this project are the following:
 
 [LinkedIn](https://www.linkedin.com/in/amr-alaa96/)
 <br />
-[Email](amr.98712@gmail.com)
+[Email](mailto:rohitjain19060@gmail.com?subject=Hi% "Hi!")
